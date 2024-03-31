@@ -1,0 +1,10 @@
+Tipo: Av.
+Nome: Eng. Eusébio Stevaux
+Número: 823
+Complemento: Apto. 13
+Bairro: Santo Amaro
+Cidade: São Paulo
+Estado: SP
+CEP: 04696-000
+
+Av. Eng. Eusébio Stevaux, 823 - Apto. 13 - Santo Amaro, São Paulo - SP, 04696-000
